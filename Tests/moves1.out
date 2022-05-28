@@ -1,0 +1,76 @@
+Welcome to Chess!
+To start a new game, enter the format 'game white-player black-player'.
+ +--------+
+8|RNBQKBNR|
+7|PPPPPPPP|
+6| _ _ _ _|
+5|_ _ _ _ |
+4| _ _ _ _|
+3|_ _ _ _ |
+2|pppppppp|
+1|rnbqkbnr|
+ +--------+
+  abcdefgh
+Move a2 a4 made
+ +--------+
+8|RNBQKBNR|
+7|PPPPPPPP|
+6| _ _ _ _|
+5|_ _ _ _ |
+4|p_ _ _ _|
+3|_ _ _ _ |
+2| ppppppp|
+1|rnbqkbnr|
+ +--------+
+  abcdefgh
+Move g8 f6 made
+ +--------+
+8|RNBQKB R|
+7|PPPPPPPP|
+6| _ _ N _|
+5|_ _ _ _ |
+4|p_ _ _ _|
+3|_ _ _ _ |
+2| ppppppp|
+1|rnbqkbnr|
+ +--------+
+  abcdefgh
+Move a4 a5 made
+ +--------+
+8|RNBQKB R|
+7|PPPPPPPP|
+6| _ _ N _|
+5|p _ _ _ |
+4| _ _ _ _|
+3|_ _ _ _ |
+2| ppppppp|
+1|rnbqkbnr|
+ +--------+
+  abcdefgh
+Move f6 e4 made
+ +--------+
+8|RNBQKB R|
+7|PPPPPPPP|
+6| _ _ _ _|
+5|p _ _ _ |
+4| _ _N_ _|
+3|_ _ _ _ |
+2| ppppppp|
+1|rnbqkbnr|
+ +--------+
+  abcdefgh
+Move f2 f3 made
+ +--------+
+8|RNBQKB R|
+7|PPPPPPPP|
+6| _ _ _ _|
+5|p _ _ _ |
+4| _ _N_ _|
+3|_ _ _p_ |
+2| pppp_pp|
+1|rnbqkbnr|
+ +--------+
+  abcdefgh
+Final Score:
+White: 0
+Black: 0

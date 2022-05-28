@@ -1,0 +1,1 @@
+asciiart.o: asciiart.cc

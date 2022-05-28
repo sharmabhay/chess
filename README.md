@@ -1,3 +1,3 @@
 # Chess
 
-This is the cs246 Fall 2021 Final Project.
+This is a regular chess game built with UML models.
